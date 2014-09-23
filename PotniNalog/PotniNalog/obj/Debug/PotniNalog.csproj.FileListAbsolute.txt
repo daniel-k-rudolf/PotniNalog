@@ -1,0 +1,9 @@
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\bin\Debug\PotniNalog.exe.config
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\bin\Debug\PotniNalog.exe
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\bin\Debug\PotniNalog.pdb
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\obj\Debug\PotniNalog.csprojResolveAssemblyReference.cache
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\obj\Debug\PotniNalog.NovDokument.resources
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\obj\Debug\PotniNalog.Properties.Resources.resources
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\obj\Debug\PotniNalog.csproj.GenerateResource.Cache
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\obj\Debug\PotniNalog.exe
+E:\GitHub Project\PotniNalog\PotniNalog\PotniNalog\PotniNalog\obj\Debug\PotniNalog.pdb
